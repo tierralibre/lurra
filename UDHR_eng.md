@@ -29,8 +29,6 @@ The General Assembly,
 Proclaims this Universal Declaration of Human Rights as a common standard of
 achievement for all peoples and all nations, to the end that every individual and
 every organ of society, keeping this Declaration constantly in mind, shall strive by
-
-
 teaching and education to promote respect for these rights and freedoms and by
 progressive measures, national and international, to secure their universal and
 effective recognition and observance, both among the peoples of Member States
@@ -101,12 +99,9 @@ Article 11
 2. No one shall be held guilty of any penal offence on account of any act or
     omission which did not constitute a penal offence, under national or
     international law, at the time when it was committed. Nor shall a heavier
+    penalty be imposed than the one that was applicable at the time the penal
+    offence was committed.
 
-
-```
-penalty be imposed than the one that was applicable at the time the penal
-offence was committed.
-```
 Article 12
 
 No one shall be subjected to arbitrary interference with his privacy, family, home
