@@ -34,7 +34,7 @@ progressive measures, national and international, to secure their universal and
 effective recognition and observance, both among the peoples of Member States
 themselves and among the peoples of territories under their jurisdiction.
 
-Article I
+Article 1
 
 All human beings are born free and equal in dignity and rights. They are
 endowed with reason and conscience and should act towards one another in a
